@@ -100,7 +100,7 @@ if __name__ == '__main__':
     ccy = base / 'data/rates_ccy_data.csv'
     price = base / 'data/rates_price_data.parq.gzip'
     spot = base / 'data/rates_spot_rate_data.parq.gzip'
-    out = base / 'results/rates_price_converted.csv'
+    out = base / 'results/price_data.csv'
     converter = RatesPriceConverter(ccy, price, spot)
     converter.load_data()
     start = time.perf_counter()
