@@ -99,14 +99,6 @@ When you run the scripts, the results will be stored in the respective results d
 
 The output files are stored in the corresponding results directories:
 
-- `stdev_test/results/stdev_a.csv`: Results from the window-based standard deviation calculation
-- `stdev_test/results/stdev_b.csv`: Results from the vectorized standard deviation calculation
+- `stdev_test/results/stdev_a.csv`: Results from the state standard deviation calculation
+- `stdev_test/results/stdev_b.csv`: Results from the reevaluation standard deviation calculation
 - `rates_test/results/price_data.csv`: Results from currency rate conversion
-
-## License
-
-[Your License Information]
-
-## Contact
-
-[Your Contact Information]
