@@ -84,7 +84,7 @@ class RollingStdevCalculator:
 if __name__ == '__main__':
     base = Path(__file__).resolve().parents[1]
     price = base / 'data/stdev_price_data.parq.gzip'
-    out = base / 'results/stdev_rolling.csv'
+    out = base / 'results/stdev_b.csv'
     
     calc = RollingStdevCalculator(price)
     calc.load_data()
