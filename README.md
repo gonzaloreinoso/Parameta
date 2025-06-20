@@ -79,7 +79,23 @@ Key features:
 
 ### Problem 2: Standard Deviation Calculation
 
-This implementation calculates rolling standard deviations over contiguous time windows:
+Two implementations are provided for calculating rolling standard deviations:
+
+#### Solution A (Incremental Approach)
+
+```bash
+cd stdev_test/scripts
+python stdev_solution_a.py
+```
+
+Key features:
+- OOP design with state management
+- Maintains running sums for incremental updates
+- Stores calculation state for efficient processing
+- Ideal for continuous processing scenarios
+- Performance optimized (< 1 second processing time)
+
+#### Solution B (Vectorized Approach)
 
 ```bash
 cd stdev_test/scripts
@@ -90,8 +106,18 @@ Key features:
 - OOP design with clean class structure
 - Uses pandas' built-in vectorized operations
 - Properly identifies contiguous hourly sequences
-- Efficiently handles the 20-hour rolling window requirement
+- Recalculates from scratch for each time point
 - Performance optimized (< 1 second processing time)
+cd stdev_test/scripts
+python stdev_solution_a.py
+```
+
+Key features:
+- Maintains calculation state between runs
+- Uses running sums for efficient updates
+- Properly resets calculations on time gaps
+- Saves state to JSON for persistence
+- Perfect for continuous/real-time processing
 
 ## Data Files
 
@@ -121,16 +147,22 @@ When you run the scripts, the results will be stored in the respective results d
 
 The output files are stored in the corresponding results directories:
 - `rates_test/results/price_data.csv`: Results from the currency rate conversion
-- `stdev_test/results/stdev_b.csv`: Results from the standard deviation calculation
+- `stdev_test/results/stdev_b.csv`: Results from the standard deviation calculation (Solution B)
+- `stdev_test/results/stdev_optimized.csv`: Results from the optimized standard deviation calculation
+- `stdev_test/results/calculation_state.json`: Saved calculation state for the optimized solution
 
 ## Running The Tests
 
-The repository includes unit tests for both solutions:
+The repository includes unit tests for all solutions:
 
 ```bash
-# Test the standard deviation solution
+# Test the standard deviation solution (Solution B)
 cd stdev_test
 python -m unittest tests/test_stdev_solutions.py
+
+# Test the optimized standard deviation solution
+cd stdev_test
+python -m unittest tests/test_stdev_optimized.py
 
 # Test the currency rate conversion solution
 cd rates_test

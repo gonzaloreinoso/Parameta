@@ -1,6 +1,6 @@
 # Standard Deviation Calculator
 
-This module contains two implementations for calculating rolling standard deviations of financial price data.
+This module contains implementations for calculating rolling standard deviations of financial price data.
 
 ## Problem Statement
 
@@ -9,12 +9,19 @@ Calculate rolling standard deviations for bid, mid, and ask prices per security 
 - Contiguous time periods (reset calculation after gaps)
 - 20-hour rolling window by default
 
-## Implementation
+## Implementations
 
 ### Solution B (`stdev_solution_b.py`)
 - Uses pandas' built-in vectorized operations for fast processing
 - Identifies contiguous time sequences for proper window resets
 - Concise code with excellent performance for large datasets
+
+### Solution A (`stdev_solution_a.py`)
+- Uses an incremental calculation approach with state persistence
+- Maintains running sums and squared sums for efficient updates
+- Resets calculation state when time gaps are detected
+- Stores calculation state to JSON for future use
+- Ideal for real-time processing with continuous updates
 
 ## Data Format
 
@@ -43,6 +50,9 @@ Both solutions produce CSV files with the following structure:
 ## Usage
 
 ```bash
-# Run the standard deviation calculator
+# Run solution A (incremental calculation)
+python scripts/stdev_solution_a.py
+
+# Run solution B (vectorized approach)
 python scripts/stdev_solution_b.py
 ```
