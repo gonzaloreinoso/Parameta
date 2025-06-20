@@ -49,6 +49,12 @@ The solution (`rates_solution.py`) handles the following:
 ## Usage
 
 ```bash
+# Run the solution
+python scripts/rates_solution.py
+
+# Run tests
+python -m unittest tests/test_rates_solution.py
+```bash
 # Run the rate converter
 python scripts/rates_solution.py
 ```
