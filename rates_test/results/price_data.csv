@@ -3875,42 +3875,42 @@ USDMYR,2021-12-10 09:17:51.241549,540.0,4.755,converted
 USDMYR,2021-12-10 09:17:51.241549,570.0,4.785,converted
 USDMYR,2021-12-10 09:17:51.240181,55.0,4.27,converted
 USDMYR,2021-12-10 09:17:51.240181,60.0,4.2749999999999995,converted
-USDMXN,2021-12-10 17:46:18.830830,0.3458,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.830830,0.3519,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 12:12:11.378845,0.0061,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 12:12:11.378845,0.0065,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 14:57:28.966170,2.1156,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 14:57:28.966170,2.1481,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:38.227063,1.2947,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:38.227063,1.3197,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:38.228195,1.1703,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:38.228195,1.1953,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:38.226855,1.05,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:38.226855,1.075,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.830162,0.9342,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.830162,0.9547,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.831362,0.8108,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.831362,0.8263,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.831894,0.695,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.831894,0.706,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.831882,0.5825,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.831882,0.5919,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.832062,0.4738,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:18.832062,0.4817,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 18:19:10.835375,0.069,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 18:19:10.835375,0.0758,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:06.746006,0.338,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:46:06.746006,0.344,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 14:57:28.942893,2.82,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 14:57:28.942893,2.86,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:18:52.189218,0.2275,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 17:18:52.189218,0.231,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:34.038343,1.415,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 13:58:34.038343,1.44,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 12:12:11.377514,0.0235,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 12:12:11.377514,0.025,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 18:19:10.828335,0.111,,ccy_pair not supported or missing conversion info
-USDMXN,2021-12-10 18:19:10.828335,0.112,,ccy_pair not supported or missing conversion info
+USDMXN,2021-12-10 17:46:18.830830,0.3458,0.3458,no conversion required
+USDMXN,2021-12-10 17:46:18.830830,0.3519,0.3519,no conversion required
+USDMXN,2021-12-10 12:12:11.378845,0.0061,0.0061,no conversion required
+USDMXN,2021-12-10 12:12:11.378845,0.0065,0.0065,no conversion required
+USDMXN,2021-12-10 14:57:28.966170,2.1156,2.1156,no conversion required
+USDMXN,2021-12-10 14:57:28.966170,2.1481,2.1481,no conversion required
+USDMXN,2021-12-10 13:58:38.227063,1.2947,1.2947,no conversion required
+USDMXN,2021-12-10 13:58:38.227063,1.3197,1.3197,no conversion required
+USDMXN,2021-12-10 13:58:38.228195,1.1703,1.1703,no conversion required
+USDMXN,2021-12-10 13:58:38.228195,1.1953,1.1953,no conversion required
+USDMXN,2021-12-10 13:58:38.226855,1.05,1.05,no conversion required
+USDMXN,2021-12-10 13:58:38.226855,1.075,1.075,no conversion required
+USDMXN,2021-12-10 17:46:18.830162,0.9342,0.9342,no conversion required
+USDMXN,2021-12-10 17:46:18.830162,0.9547,0.9547,no conversion required
+USDMXN,2021-12-10 17:46:18.831362,0.8108,0.8108,no conversion required
+USDMXN,2021-12-10 17:46:18.831362,0.8263,0.8263,no conversion required
+USDMXN,2021-12-10 17:46:18.831894,0.695,0.695,no conversion required
+USDMXN,2021-12-10 17:46:18.831894,0.706,0.706,no conversion required
+USDMXN,2021-12-10 17:46:18.831882,0.5825,0.5825,no conversion required
+USDMXN,2021-12-10 17:46:18.831882,0.5919,0.5919,no conversion required
+USDMXN,2021-12-10 17:46:18.832062,0.4738,0.4738,no conversion required
+USDMXN,2021-12-10 17:46:18.832062,0.4817,0.4817,no conversion required
+USDMXN,2021-12-10 18:19:10.835375,0.069,0.069,no conversion required
+USDMXN,2021-12-10 18:19:10.835375,0.0758,0.0758,no conversion required
+USDMXN,2021-12-10 17:46:06.746006,0.338,0.338,no conversion required
+USDMXN,2021-12-10 17:46:06.746006,0.344,0.344,no conversion required
+USDMXN,2021-12-10 14:57:28.942893,2.82,2.82,no conversion required
+USDMXN,2021-12-10 14:57:28.942893,2.86,2.86,no conversion required
+USDMXN,2021-12-10 17:18:52.189218,0.2275,0.2275,no conversion required
+USDMXN,2021-12-10 17:18:52.189218,0.231,0.231,no conversion required
+USDMXN,2021-12-10 13:58:34.038343,1.415,1.415,no conversion required
+USDMXN,2021-12-10 13:58:34.038343,1.44,1.44,no conversion required
+USDMXN,2021-12-10 12:12:11.377514,0.0235,0.0235,no conversion required
+USDMXN,2021-12-10 12:12:11.377514,0.025,0.025,no conversion required
+USDMXN,2021-12-10 18:19:10.828335,0.111,0.111,no conversion required
+USDMXN,2021-12-10 18:19:10.828335,0.112,0.112,no conversion required
 USDMUR,2021-12-10 05:56:35.181107,2.0,43.220000000000006,converted
 USDMUR,2021-12-10 05:56:35.181107,6.0,43.260000000000005,converted
 USDMUR,2021-12-10 05:56:34.057619,6.0,43.260000000000005,converted
@@ -6337,400 +6337,400 @@ USDCHF,2021-12-10 19:55:57.820399,-11.12,0.8097000000000001,converted
 USDCHF,2021-12-10 19:55:53.076640,-11.11,0.8098000000000001,converted
 USDCHF,2021-12-10 19:55:48.327730,-11.12,0.8097000000000001,converted
 USDCHF,2021-12-10 17:30:20.256530,-11.6,0.8047,converted
-USDCAD,2021-12-10 17:35:02.306395,0.05,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:00:05.393041,0.04,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.306395,0.06,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:00:05.393041,0.06,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.314705,0.08,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:00:05.392645,0.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.314705,0.12,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:00:05.392645,0.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.475395,0.05,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:00:05.392677,0.04,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.475395,0.06,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:00:05.392677,0.06,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.541551,21.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.177007,21.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.142520,21.15,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.122501,21.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.895084,21.21,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.541551,22.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.177007,22.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.142520,22.15,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.122501,22.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.895084,22.21,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.192569,4.59,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.104155,4.55,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:40.766966,4.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.171178,4.59,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:32.026185,4.55,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.192569,5.59,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.104155,5.55,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:40.766966,5.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.171178,5.59,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:32.026185,5.55,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:28.779416,-2.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:27.410321,-2.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:18.357185,-2.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:08.080843,-2.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:02.667212,-2.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:28.779416,-2.52,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:27.410321,-2.53,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:18.357185,-2.52,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:08.080843,-2.53,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:02.667212,-2.52,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.312933,0.09,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 17:35:02.312933,0.11,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.205259,85.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:40.119363,86.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:20.156300,85.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:45.190637,86.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:40.165919,85.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.205259,92.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:40.119363,93.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:20.156300,92.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:45.190637,93.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:40.165919,92.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.578199,67.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644944,67.71,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.744953,67.64,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.518067,67.69,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:44.471138,67.71,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.184596,70.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:10.145662,70.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:00.182353,70.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:05.206524,70.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:35:20.170531,70.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.578199,75.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644944,75.71,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.744953,75.64,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.518067,75.69,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:44.471138,75.71,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.184596,77.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:10.145662,77.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:00.182353,77.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:05.206524,77.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:35:20.170531,77.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.541688,55.76,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.154529,55.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.141891,55.73,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.122355,55.67,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.921556,55.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:33:20.140283,55.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:33:15.128086,54.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.541688,60.76,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.154529,60.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.141891,60.73,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.122355,60.67,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.921556,60.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:33:20.140283,60.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:33:15.128086,59.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.538895,32.81,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.450983,32.83,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.421334,32.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.414744,32.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.378803,32.79,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.131202,32.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:50.138833,32.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.151267,32.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:35.169893,32.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:30.167785,32.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.538895,33.81,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.450983,33.83,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.421334,33.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.414744,33.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.378803,33.79,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.131202,34.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:50.138833,34.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.151267,34.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:35.169893,34.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:30.167785,34.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.539678,25.38,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.175577,25.41,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.138685,25.35,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.124604,25.37,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.893490,25.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.188406,25.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:30.171929,25.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:20.175550,25.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:49:35.175745,25.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:49:05.107546,25.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.539678,26.38,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.175577,26.41,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.138685,26.35,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.124604,26.37,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.893490,26.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.188406,27.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:30.171929,27.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:20.175550,27.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:49:35.175745,27.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:49:05.107546,27.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.539075,19.44,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.175684,19.45,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.138331,19.41,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.124379,19.44,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.186698,19.46,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:40.155137,19.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:35.144806,19.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.178167,19.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:30.171279,19.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:20.175443,19.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.539075,20.44,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.175684,20.45,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.138331,20.41,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.124379,20.44,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.186698,20.46,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:40.155137,21.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:35.144806,21.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.178167,21.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:30.171279,21.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:50:20.175443,21.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.132472,13.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.094584,13.47,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.189189,13.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:52.501358,13.44,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.772038,13.45,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:05.233275,14.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:00.143467,14.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:54:00.191064,14.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:45.149573,14.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.177334,14.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.132472,14.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.094584,14.47,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.189189,14.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:52.501358,14.44,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.772038,14.45,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:05.233275,15.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:00.143467,15.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:54:00.191064,15.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:45.149573,15.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.177334,15.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.188578,7.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.104475,7.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.170590,7.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:32.051906,7.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:21.153120,7.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:25.129206,7.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.167524,7.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.178024,7.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:25.144632,7.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:20.208963,7.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.188578,8.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.104475,8.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.170590,8.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:32.051906,8.74,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:21.153120,8.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:25.129206,8.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.167524,8.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.178024,8.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:25.144632,8.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:20.208963,8.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.188259,4.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.104210,4.26,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.170902,4.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:32.052024,4.26,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:21.152762,4.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.177878,4.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:25.144505,4.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:20.208846,4.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:35:05.122739,4.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:35:00.143819,4.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.188259,5.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.104210,5.26,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.170902,5.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:32.052024,5.26,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:21.152762,5.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:53:10.177878,5.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:25.144505,5.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:51:20.208846,5.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:35:05.122739,5.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:35:00.143819,5.2,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.551856,185.39,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.109312,185.11,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.094018,185.38,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.708292,185.11,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644442,185.13,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:50.138766,186.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.153205,188.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:50.111092,186.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.205252,187.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:05.234829,186.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.551856,210.39,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.109312,210.11,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.094018,210.38,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.708292,210.11,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644442,210.13,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:50.138766,211.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.153205,213.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:50.111092,211.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.205252,212.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:05.234829,211.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.186801,1.07,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.102246,1.06,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.169690,1.07,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:31.919431,1.06,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:21.148173,1.07,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:00.152364,1.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:56:25.130105,1.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:56:15.165896,1.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:50.157050,1.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.186801,1.57,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:43.102246,1.56,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:33.169690,1.57,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:31.919431,1.56,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:21.148173,1.57,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:00.152364,1.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:56:25.130105,1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:56:15.165896,1.7,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:50.157050,1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.563665,175.04,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.109823,174.92,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.093837,175.03,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.708384,174.92,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644994,174.93,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:05.232781,174.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:56:30.152482,175.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:50.157246,176.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:20.143742,175.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:15.187338,176.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.563665,190.04,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.109823,189.92,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.093837,190.03,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.708384,189.92,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644994,189.93,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:57:05.232781,194.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:56:30.152482,195.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:50.157246,196.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:20.143742,195.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:15.187338,196.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:44.841249,-1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:40.767690,-1.79,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:24.295849,-1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:19.937611,-1.79,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:54.887887,-1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:34:50.140412,-1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:33:35.117212,-1.9,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:31:05.166691,-1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:30:50.134927,-1.9,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:00.125080,-1.8,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:44.841249,-1.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:40.767690,-1.39,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:24.295849,-1.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:19.937611,-1.39,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:54.887887,-1.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:34:50.140412,-1.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:33:35.117212,-1.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:31:05.166691,-1.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:30:50.134927,-1.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:00.125080,-1.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.551542,141.95,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.380849,141.94,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.753801,141.95,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:47.816095,141.93,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:44.846585,141.92,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 16:59:50.157233,141.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.551542,156.95,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.380849,156.94,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.753801,156.95,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:47.816095,156.93,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:44.846585,156.92,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 16:59:50.157233,171.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:28.839861,-4.38,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:27.634758,-4.39,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:09:25.092317,-4.62,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:09:20.207816,-4.61,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:28.839861,-4.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:27.634758,-4.19,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:09:25.092317,-4.32,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:09:20.207816,-4.31,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:04.379397,-2.83,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:25:10.175918,-3.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:12:50.180152,-3.05,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:04.379397,-2.63,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:25:10.175918,-2.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:12:50.180152,-2.55,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.578293,100.98,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.708595,100.93,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644609,100.94,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.744678,100.88,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.537112,100.81,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:35.168680,97.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.184696,96.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.204183,97.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:40.118621,97.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:15.220697,97.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.578293,110.98,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.708595,110.93,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:54.644609,110.94,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:49.744678,110.88,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.537112,110.81,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:35.168680,107.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.184696,106.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.204183,107.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:40.118621,107.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:15.220697,107.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:04.191925,0.3,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.129513,0.28,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.143374,0.27,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:40.120572,0.28,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:25.126076,0.27,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.182935,0.28,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:04.191925,0.5,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:55.129513,0.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:45.143374,0.47,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:40.120572,0.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:25.126076,0.47,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.182935,0.48,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:30.869720,-3.98,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:29.825694,-3.97,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:28.781375,-3.97,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:27.426777,-3.97,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:10.106697,-4.05,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:05.115872,-4.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:40:30.202193,-4.05,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:40:20.193968,-4.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:40:05.131336,-4.05,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:30.869720,-3.78,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:29.825694,-3.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:28.781375,-3.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:55:27.426777,-3.77,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:10.106697,-3.65,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:05.115872,-3.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:40:30.202193,-3.65,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:40:20.193968,-3.6,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:40:05.131336,-3.65,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.538706,39.22,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.175462,39.24,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.138498,39.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.124498,39.13,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.893285,39.16,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:25.182416,40.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.184613,39.9,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:00.170528,40.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:50.110967,40.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.204078,40.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:59.538706,40.22,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:58.175462,40.24,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:57.138498,40.18,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:56.124498,40.13,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:53.893285,40.16,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:25.182416,42.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:20.184613,41.9,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:59:00.170528,42.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:50.110967,42.1,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:58:45.204078,42.0,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 18:56:11.632346,0.26,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 18:09:15.077927,0.21,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 18:56:11.632346,0.36,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 18:09:15.077927,0.31,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:04.371897,-4.34,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:11:09.482577,-4.31,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:11:08.503423,-4.32,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:10:05.127910,-4.4,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:22:04.371897,-4.14,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:11:09.482577,-4.11,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:11:08.503423,-4.12,,ccy_pair not supported or missing conversion info
-USDCAD,2021-12-10 19:10:05.127910,-4.0,,ccy_pair not supported or missing conversion info
+USDCAD,2021-12-10 17:35:02.306395,0.05,0.05,no conversion required
+USDCAD,2021-12-10 17:00:05.393041,0.04,0.04,no conversion required
+USDCAD,2021-12-10 17:35:02.306395,0.06,0.06,no conversion required
+USDCAD,2021-12-10 17:00:05.393041,0.06,0.06,no conversion required
+USDCAD,2021-12-10 17:35:02.314705,0.08,0.08,no conversion required
+USDCAD,2021-12-10 17:00:05.392645,0.0,0.0,no conversion required
+USDCAD,2021-12-10 17:35:02.314705,0.12,0.12,no conversion required
+USDCAD,2021-12-10 17:00:05.392645,0.0,0.0,no conversion required
+USDCAD,2021-12-10 17:35:02.475395,0.05,0.05,no conversion required
+USDCAD,2021-12-10 17:00:05.392677,0.04,0.04,no conversion required
+USDCAD,2021-12-10 17:35:02.475395,0.06,0.06,no conversion required
+USDCAD,2021-12-10 17:00:05.392677,0.06,0.06,no conversion required
+USDCAD,2021-12-10 19:59:59.541551,21.18,21.18,no conversion required
+USDCAD,2021-12-10 19:59:58.177007,21.2,21.2,no conversion required
+USDCAD,2021-12-10 19:59:57.142520,21.15,21.15,no conversion required
+USDCAD,2021-12-10 19:59:56.122501,21.18,21.18,no conversion required
+USDCAD,2021-12-10 19:59:53.895084,21.21,21.21,no conversion required
+USDCAD,2021-12-10 19:59:59.541551,22.18,22.18,no conversion required
+USDCAD,2021-12-10 19:59:58.177007,22.2,22.2,no conversion required
+USDCAD,2021-12-10 19:59:57.142520,22.15,22.15,no conversion required
+USDCAD,2021-12-10 19:59:56.122501,22.18,22.18,no conversion required
+USDCAD,2021-12-10 19:59:53.895084,22.21,22.21,no conversion required
+USDCAD,2021-12-10 19:59:54.192569,4.59,4.59,no conversion required
+USDCAD,2021-12-10 19:59:43.104155,4.55,4.55,no conversion required
+USDCAD,2021-12-10 19:59:40.766966,4.6,4.6,no conversion required
+USDCAD,2021-12-10 19:59:33.171178,4.59,4.59,no conversion required
+USDCAD,2021-12-10 19:59:32.026185,4.55,4.55,no conversion required
+USDCAD,2021-12-10 19:59:54.192569,5.59,5.59,no conversion required
+USDCAD,2021-12-10 19:59:43.104155,5.55,5.55,no conversion required
+USDCAD,2021-12-10 19:59:40.766966,5.6,5.6,no conversion required
+USDCAD,2021-12-10 19:59:33.171178,5.59,5.59,no conversion required
+USDCAD,2021-12-10 19:59:32.026185,5.55,5.55,no conversion required
+USDCAD,2021-12-10 19:55:28.779416,-2.74,-2.74,no conversion required
+USDCAD,2021-12-10 19:55:27.410321,-2.74,-2.74,no conversion required
+USDCAD,2021-12-10 19:53:18.357185,-2.74,-2.74,no conversion required
+USDCAD,2021-12-10 19:53:08.080843,-2.74,-2.74,no conversion required
+USDCAD,2021-12-10 19:53:02.667212,-2.74,-2.74,no conversion required
+USDCAD,2021-12-10 19:55:28.779416,-2.52,-2.52,no conversion required
+USDCAD,2021-12-10 19:55:27.410321,-2.53,-2.53,no conversion required
+USDCAD,2021-12-10 19:53:18.357185,-2.52,-2.52,no conversion required
+USDCAD,2021-12-10 19:53:08.080843,-2.53,-2.53,no conversion required
+USDCAD,2021-12-10 19:53:02.667212,-2.52,-2.52,no conversion required
+USDCAD,2021-12-10 17:35:02.312933,0.09,0.09,no conversion required
+USDCAD,2021-12-10 17:35:02.312933,0.11,0.11,no conversion required
+USDCAD,2021-12-10 19:58:45.205259,85.5,85.5,no conversion required
+USDCAD,2021-12-10 19:58:40.119363,86.0,86.0,no conversion required
+USDCAD,2021-12-10 19:58:20.156300,85.5,85.5,no conversion required
+USDCAD,2021-12-10 19:57:45.190637,86.0,86.0,no conversion required
+USDCAD,2021-12-10 19:57:40.165919,85.5,85.5,no conversion required
+USDCAD,2021-12-10 19:58:45.205259,92.5,92.5,no conversion required
+USDCAD,2021-12-10 19:58:40.119363,93.0,93.0,no conversion required
+USDCAD,2021-12-10 19:58:20.156300,92.5,92.5,no conversion required
+USDCAD,2021-12-10 19:57:45.190637,93.0,93.0,no conversion required
+USDCAD,2021-12-10 19:57:40.165919,92.5,92.5,no conversion required
+USDCAD,2021-12-10 19:59:59.578199,67.78,67.78,no conversion required
+USDCAD,2021-12-10 19:59:54.644944,67.71,67.71,no conversion required
+USDCAD,2021-12-10 19:59:49.744953,67.64,67.64,no conversion required
+USDCAD,2021-12-10 19:59:45.518067,67.69,67.69,no conversion required
+USDCAD,2021-12-10 19:59:44.471138,67.71,67.71,no conversion required
+USDCAD,2021-12-10 19:59:20.184596,70.0,70.0,no conversion required
+USDCAD,2021-12-10 19:59:10.145662,70.5,70.5,no conversion required
+USDCAD,2021-12-10 19:59:00.182353,70.0,70.0,no conversion required
+USDCAD,2021-12-10 19:53:05.206524,70.5,70.5,no conversion required
+USDCAD,2021-12-10 19:35:20.170531,70.0,70.0,no conversion required
+USDCAD,2021-12-10 19:59:59.578199,75.78,75.78,no conversion required
+USDCAD,2021-12-10 19:59:54.644944,75.71,75.71,no conversion required
+USDCAD,2021-12-10 19:59:49.744953,75.64,75.64,no conversion required
+USDCAD,2021-12-10 19:59:45.518067,75.69,75.69,no conversion required
+USDCAD,2021-12-10 19:59:44.471138,75.71,75.71,no conversion required
+USDCAD,2021-12-10 19:59:20.184596,77.0,77.0,no conversion required
+USDCAD,2021-12-10 19:59:10.145662,77.5,77.5,no conversion required
+USDCAD,2021-12-10 19:59:00.182353,77.0,77.0,no conversion required
+USDCAD,2021-12-10 19:53:05.206524,77.5,77.5,no conversion required
+USDCAD,2021-12-10 19:35:20.170531,77.0,77.0,no conversion required
+USDCAD,2021-12-10 19:59:59.541688,55.76,55.76,no conversion required
+USDCAD,2021-12-10 19:59:58.154529,55.78,55.78,no conversion required
+USDCAD,2021-12-10 19:59:57.141891,55.73,55.73,no conversion required
+USDCAD,2021-12-10 19:59:56.122355,55.67,55.67,no conversion required
+USDCAD,2021-12-10 19:59:53.921556,55.7,55.7,no conversion required
+USDCAD,2021-12-10 19:33:20.140283,55.0,55.0,no conversion required
+USDCAD,2021-12-10 19:33:15.128086,54.5,54.5,no conversion required
+USDCAD,2021-12-10 19:59:59.541688,60.76,60.76,no conversion required
+USDCAD,2021-12-10 19:59:58.154529,60.78,60.78,no conversion required
+USDCAD,2021-12-10 19:59:57.141891,60.73,60.73,no conversion required
+USDCAD,2021-12-10 19:59:56.122355,60.67,60.67,no conversion required
+USDCAD,2021-12-10 19:59:53.921556,60.7,60.7,no conversion required
+USDCAD,2021-12-10 19:33:20.140283,60.0,60.0,no conversion required
+USDCAD,2021-12-10 19:33:15.128086,59.5,59.5,no conversion required
+USDCAD,2021-12-10 19:59:59.538895,32.81,32.81,no conversion required
+USDCAD,2021-12-10 19:59:58.450983,32.83,32.83,no conversion required
+USDCAD,2021-12-10 19:59:57.421334,32.78,32.78,no conversion required
+USDCAD,2021-12-10 19:59:56.414744,32.77,32.77,no conversion required
+USDCAD,2021-12-10 19:59:55.378803,32.79,32.79,no conversion required
+USDCAD,2021-12-10 19:59:55.131202,32.7,32.7,no conversion required
+USDCAD,2021-12-10 19:59:50.138833,32.8,32.8,no conversion required
+USDCAD,2021-12-10 19:59:45.151267,32.7,32.7,no conversion required
+USDCAD,2021-12-10 19:59:35.169893,32.8,32.8,no conversion required
+USDCAD,2021-12-10 19:59:30.167785,32.7,32.7,no conversion required
+USDCAD,2021-12-10 19:59:59.538895,33.81,33.81,no conversion required
+USDCAD,2021-12-10 19:59:58.450983,33.83,33.83,no conversion required
+USDCAD,2021-12-10 19:59:57.421334,33.78,33.78,no conversion required
+USDCAD,2021-12-10 19:59:56.414744,33.77,33.77,no conversion required
+USDCAD,2021-12-10 19:59:55.378803,33.79,33.79,no conversion required
+USDCAD,2021-12-10 19:59:55.131202,34.7,34.7,no conversion required
+USDCAD,2021-12-10 19:59:50.138833,34.8,34.8,no conversion required
+USDCAD,2021-12-10 19:59:45.151267,34.7,34.7,no conversion required
+USDCAD,2021-12-10 19:59:35.169893,34.8,34.8,no conversion required
+USDCAD,2021-12-10 19:59:30.167785,34.7,34.7,no conversion required
+USDCAD,2021-12-10 19:59:59.539678,25.38,25.38,no conversion required
+USDCAD,2021-12-10 19:59:58.175577,25.41,25.41,no conversion required
+USDCAD,2021-12-10 19:59:57.138685,25.35,25.35,no conversion required
+USDCAD,2021-12-10 19:59:56.124604,25.37,25.37,no conversion required
+USDCAD,2021-12-10 19:59:53.893490,25.4,25.4,no conversion required
+USDCAD,2021-12-10 19:53:10.188406,25.6,25.6,no conversion required
+USDCAD,2021-12-10 19:50:30.171929,25.5,25.5,no conversion required
+USDCAD,2021-12-10 19:50:20.175550,25.6,25.6,no conversion required
+USDCAD,2021-12-10 19:49:35.175745,25.5,25.5,no conversion required
+USDCAD,2021-12-10 19:49:05.107546,25.6,25.6,no conversion required
+USDCAD,2021-12-10 19:59:59.539678,26.38,26.38,no conversion required
+USDCAD,2021-12-10 19:59:58.175577,26.41,26.41,no conversion required
+USDCAD,2021-12-10 19:59:57.138685,26.35,26.35,no conversion required
+USDCAD,2021-12-10 19:59:56.124604,26.37,26.37,no conversion required
+USDCAD,2021-12-10 19:59:53.893490,26.4,26.4,no conversion required
+USDCAD,2021-12-10 19:53:10.188406,27.1,27.1,no conversion required
+USDCAD,2021-12-10 19:50:30.171929,27.0,27.0,no conversion required
+USDCAD,2021-12-10 19:50:20.175550,27.1,27.1,no conversion required
+USDCAD,2021-12-10 19:49:35.175745,27.0,27.0,no conversion required
+USDCAD,2021-12-10 19:49:05.107546,27.1,27.1,no conversion required
+USDCAD,2021-12-10 19:59:59.539075,19.44,19.44,no conversion required
+USDCAD,2021-12-10 19:59:58.175684,19.45,19.45,no conversion required
+USDCAD,2021-12-10 19:59:57.138331,19.41,19.41,no conversion required
+USDCAD,2021-12-10 19:59:56.124379,19.44,19.44,no conversion required
+USDCAD,2021-12-10 19:59:54.186698,19.46,19.46,no conversion required
+USDCAD,2021-12-10 19:57:40.155137,19.6,19.6,no conversion required
+USDCAD,2021-12-10 19:57:35.144806,19.7,19.7,no conversion required
+USDCAD,2021-12-10 19:53:10.178167,19.6,19.6,no conversion required
+USDCAD,2021-12-10 19:50:30.171279,19.5,19.5,no conversion required
+USDCAD,2021-12-10 19:50:20.175443,19.6,19.6,no conversion required
+USDCAD,2021-12-10 19:59:59.539075,20.44,20.44,no conversion required
+USDCAD,2021-12-10 19:59:58.175684,20.45,20.45,no conversion required
+USDCAD,2021-12-10 19:59:57.138331,20.41,20.41,no conversion required
+USDCAD,2021-12-10 19:59:56.124379,20.44,20.44,no conversion required
+USDCAD,2021-12-10 19:59:54.186698,20.46,20.46,no conversion required
+USDCAD,2021-12-10 19:57:40.155137,21.1,21.1,no conversion required
+USDCAD,2021-12-10 19:57:35.144806,21.2,21.2,no conversion required
+USDCAD,2021-12-10 19:53:10.178167,21.1,21.1,no conversion required
+USDCAD,2021-12-10 19:50:30.171279,21.0,21.0,no conversion required
+USDCAD,2021-12-10 19:50:20.175443,21.1,21.1,no conversion required
+USDCAD,2021-12-10 19:59:58.132472,13.48,13.48,no conversion required
+USDCAD,2021-12-10 19:59:57.094584,13.47,13.47,no conversion required
+USDCAD,2021-12-10 19:59:54.189189,13.48,13.48,no conversion required
+USDCAD,2021-12-10 19:59:52.501358,13.44,13.44,no conversion required
+USDCAD,2021-12-10 19:59:49.772038,13.45,13.45,no conversion required
+USDCAD,2021-12-10 19:57:05.233275,14.1,14.1,no conversion required
+USDCAD,2021-12-10 19:57:00.143467,14.2,14.2,no conversion required
+USDCAD,2021-12-10 19:54:00.191064,14.1,14.1,no conversion required
+USDCAD,2021-12-10 19:53:45.149573,14.2,14.2,no conversion required
+USDCAD,2021-12-10 19:53:10.177334,14.1,14.1,no conversion required
+USDCAD,2021-12-10 19:59:58.132472,14.48,14.48,no conversion required
+USDCAD,2021-12-10 19:59:57.094584,14.47,14.47,no conversion required
+USDCAD,2021-12-10 19:59:54.189189,14.48,14.48,no conversion required
+USDCAD,2021-12-10 19:59:52.501358,14.44,14.44,no conversion required
+USDCAD,2021-12-10 19:59:49.772038,14.45,14.45,no conversion required
+USDCAD,2021-12-10 19:57:05.233275,15.1,15.1,no conversion required
+USDCAD,2021-12-10 19:57:00.143467,15.2,15.2,no conversion required
+USDCAD,2021-12-10 19:54:00.191064,15.1,15.1,no conversion required
+USDCAD,2021-12-10 19:53:45.149573,15.2,15.2,no conversion required
+USDCAD,2021-12-10 19:53:10.177334,15.1,15.1,no conversion required
+USDCAD,2021-12-10 19:59:54.188578,7.77,7.77,no conversion required
+USDCAD,2021-12-10 19:59:43.104475,7.74,7.74,no conversion required
+USDCAD,2021-12-10 19:59:33.170590,7.77,7.77,no conversion required
+USDCAD,2021-12-10 19:59:32.051906,7.74,7.74,no conversion required
+USDCAD,2021-12-10 19:59:21.153120,7.77,7.77,no conversion required
+USDCAD,2021-12-10 19:59:25.129206,7.6,7.6,no conversion required
+USDCAD,2021-12-10 19:59:20.167524,7.5,7.5,no conversion required
+USDCAD,2021-12-10 19:53:10.178024,7.6,7.6,no conversion required
+USDCAD,2021-12-10 19:51:25.144632,7.5,7.5,no conversion required
+USDCAD,2021-12-10 19:51:20.208963,7.6,7.6,no conversion required
+USDCAD,2021-12-10 19:59:54.188578,8.77,8.77,no conversion required
+USDCAD,2021-12-10 19:59:43.104475,8.74,8.74,no conversion required
+USDCAD,2021-12-10 19:59:33.170590,8.77,8.77,no conversion required
+USDCAD,2021-12-10 19:59:32.051906,8.74,8.74,no conversion required
+USDCAD,2021-12-10 19:59:21.153120,8.77,8.77,no conversion required
+USDCAD,2021-12-10 19:59:25.129206,8.6,8.6,no conversion required
+USDCAD,2021-12-10 19:59:20.167524,8.5,8.5,no conversion required
+USDCAD,2021-12-10 19:53:10.178024,8.6,8.6,no conversion required
+USDCAD,2021-12-10 19:51:25.144632,8.5,8.5,no conversion required
+USDCAD,2021-12-10 19:51:20.208963,8.6,8.6,no conversion required
+USDCAD,2021-12-10 19:59:54.188259,4.3,4.3,no conversion required
+USDCAD,2021-12-10 19:59:43.104210,4.26,4.26,no conversion required
+USDCAD,2021-12-10 19:59:33.170902,4.3,4.3,no conversion required
+USDCAD,2021-12-10 19:59:32.052024,4.26,4.26,no conversion required
+USDCAD,2021-12-10 19:59:21.152762,4.3,4.3,no conversion required
+USDCAD,2021-12-10 19:53:10.177878,4.2,4.2,no conversion required
+USDCAD,2021-12-10 19:51:25.144505,4.1,4.1,no conversion required
+USDCAD,2021-12-10 19:51:20.208846,4.2,4.2,no conversion required
+USDCAD,2021-12-10 19:35:05.122739,4.1,4.1,no conversion required
+USDCAD,2021-12-10 19:35:00.143819,4.2,4.2,no conversion required
+USDCAD,2021-12-10 19:59:54.188259,5.3,5.3,no conversion required
+USDCAD,2021-12-10 19:59:43.104210,5.26,5.26,no conversion required
+USDCAD,2021-12-10 19:59:33.170902,5.3,5.3,no conversion required
+USDCAD,2021-12-10 19:59:32.052024,5.26,5.26,no conversion required
+USDCAD,2021-12-10 19:59:21.152762,5.3,5.3,no conversion required
+USDCAD,2021-12-10 19:53:10.177878,5.2,5.2,no conversion required
+USDCAD,2021-12-10 19:51:25.144505,5.1,5.1,no conversion required
+USDCAD,2021-12-10 19:51:20.208846,5.2,5.2,no conversion required
+USDCAD,2021-12-10 19:35:05.122739,5.1,5.1,no conversion required
+USDCAD,2021-12-10 19:35:00.143819,5.2,5.2,no conversion required
+USDCAD,2021-12-10 19:59:59.551856,185.39,185.39,no conversion required
+USDCAD,2021-12-10 19:59:58.109312,185.11,185.11,no conversion required
+USDCAD,2021-12-10 19:59:57.094018,185.38,185.38,no conversion required
+USDCAD,2021-12-10 19:59:55.708292,185.11,185.11,no conversion required
+USDCAD,2021-12-10 19:59:54.644442,185.13,185.13,no conversion required
+USDCAD,2021-12-10 19:59:50.138766,186.0,186.0,no conversion required
+USDCAD,2021-12-10 19:59:45.153205,188.0,188.0,no conversion required
+USDCAD,2021-12-10 19:58:50.111092,186.0,186.0,no conversion required
+USDCAD,2021-12-10 19:58:45.205252,187.0,187.0,no conversion required
+USDCAD,2021-12-10 19:57:05.234829,186.0,186.0,no conversion required
+USDCAD,2021-12-10 19:59:59.551856,210.39,210.39,no conversion required
+USDCAD,2021-12-10 19:59:58.109312,210.11,210.11,no conversion required
+USDCAD,2021-12-10 19:59:57.094018,210.38,210.38,no conversion required
+USDCAD,2021-12-10 19:59:55.708292,210.11,210.11,no conversion required
+USDCAD,2021-12-10 19:59:54.644442,210.13,210.13,no conversion required
+USDCAD,2021-12-10 19:59:50.138766,211.0,211.0,no conversion required
+USDCAD,2021-12-10 19:59:45.153205,213.0,213.0,no conversion required
+USDCAD,2021-12-10 19:58:50.111092,211.0,211.0,no conversion required
+USDCAD,2021-12-10 19:58:45.205252,212.0,212.0,no conversion required
+USDCAD,2021-12-10 19:57:05.234829,211.0,211.0,no conversion required
+USDCAD,2021-12-10 19:59:54.186801,1.07,1.07,no conversion required
+USDCAD,2021-12-10 19:59:43.102246,1.06,1.06,no conversion required
+USDCAD,2021-12-10 19:59:33.169690,1.07,1.07,no conversion required
+USDCAD,2021-12-10 19:59:31.919431,1.06,1.06,no conversion required
+USDCAD,2021-12-10 19:59:21.148173,1.07,1.07,no conversion required
+USDCAD,2021-12-10 19:57:00.152364,1.0,1.0,no conversion required
+USDCAD,2021-12-10 19:56:25.130105,1.1,1.1,no conversion required
+USDCAD,2021-12-10 19:56:15.165896,1.0,1.0,no conversion required
+USDCAD,2021-12-10 19:55:50.157050,1.1,1.1,no conversion required
+USDCAD,2021-12-10 19:59:54.186801,1.57,1.57,no conversion required
+USDCAD,2021-12-10 19:59:43.102246,1.56,1.56,no conversion required
+USDCAD,2021-12-10 19:59:33.169690,1.57,1.57,no conversion required
+USDCAD,2021-12-10 19:59:31.919431,1.56,1.56,no conversion required
+USDCAD,2021-12-10 19:59:21.148173,1.57,1.57,no conversion required
+USDCAD,2021-12-10 19:57:00.152364,1.7,1.7,no conversion required
+USDCAD,2021-12-10 19:56:25.130105,1.8,1.8,no conversion required
+USDCAD,2021-12-10 19:56:15.165896,1.7,1.7,no conversion required
+USDCAD,2021-12-10 19:55:50.157050,1.8,1.8,no conversion required
+USDCAD,2021-12-10 19:59:59.563665,175.04,175.04,no conversion required
+USDCAD,2021-12-10 19:59:58.109823,174.92,174.92,no conversion required
+USDCAD,2021-12-10 19:59:57.093837,175.03,175.03,no conversion required
+USDCAD,2021-12-10 19:59:55.708384,174.92,174.92,no conversion required
+USDCAD,2021-12-10 19:59:54.644994,174.93,174.93,no conversion required
+USDCAD,2021-12-10 19:57:05.232781,174.0,174.0,no conversion required
+USDCAD,2021-12-10 19:56:30.152482,175.0,175.0,no conversion required
+USDCAD,2021-12-10 19:55:50.157246,176.0,176.0,no conversion required
+USDCAD,2021-12-10 19:55:20.143742,175.0,175.0,no conversion required
+USDCAD,2021-12-10 19:55:15.187338,176.0,176.0,no conversion required
+USDCAD,2021-12-10 19:59:59.563665,190.04,190.04,no conversion required
+USDCAD,2021-12-10 19:59:58.109823,189.92,189.92,no conversion required
+USDCAD,2021-12-10 19:59:57.093837,190.03,190.03,no conversion required
+USDCAD,2021-12-10 19:59:55.708384,189.92,189.92,no conversion required
+USDCAD,2021-12-10 19:59:54.644994,189.93,189.93,no conversion required
+USDCAD,2021-12-10 19:57:05.232781,194.0,194.0,no conversion required
+USDCAD,2021-12-10 19:56:30.152482,195.0,195.0,no conversion required
+USDCAD,2021-12-10 19:55:50.157246,196.0,196.0,no conversion required
+USDCAD,2021-12-10 19:55:20.143742,195.0,195.0,no conversion required
+USDCAD,2021-12-10 19:55:15.187338,196.0,196.0,no conversion required
+USDCAD,2021-12-10 19:59:44.841249,-1.8,-1.8,no conversion required
+USDCAD,2021-12-10 19:59:40.767690,-1.79,-1.79,no conversion required
+USDCAD,2021-12-10 19:59:24.295849,-1.8,-1.8,no conversion required
+USDCAD,2021-12-10 19:59:19.937611,-1.79,-1.79,no conversion required
+USDCAD,2021-12-10 19:58:54.887887,-1.8,-1.8,no conversion required
+USDCAD,2021-12-10 19:34:50.140412,-1.8,-1.8,no conversion required
+USDCAD,2021-12-10 19:33:35.117212,-1.9,-1.9,no conversion required
+USDCAD,2021-12-10 19:31:05.166691,-1.8,-1.8,no conversion required
+USDCAD,2021-12-10 19:30:50.134927,-1.9,-1.9,no conversion required
+USDCAD,2021-12-10 19:22:00.125080,-1.8,-1.8,no conversion required
+USDCAD,2021-12-10 19:59:44.841249,-1.4,-1.4,no conversion required
+USDCAD,2021-12-10 19:59:40.767690,-1.39,-1.39,no conversion required
+USDCAD,2021-12-10 19:59:24.295849,-1.4,-1.4,no conversion required
+USDCAD,2021-12-10 19:59:19.937611,-1.39,-1.39,no conversion required
+USDCAD,2021-12-10 19:58:54.887887,-1.4,-1.4,no conversion required
+USDCAD,2021-12-10 19:34:50.140412,-1.3,-1.3,no conversion required
+USDCAD,2021-12-10 19:33:35.117212,-1.4,-1.4,no conversion required
+USDCAD,2021-12-10 19:31:05.166691,-1.3,-1.3,no conversion required
+USDCAD,2021-12-10 19:30:50.134927,-1.4,-1.4,no conversion required
+USDCAD,2021-12-10 19:22:00.125080,-1.3,-1.3,no conversion required
+USDCAD,2021-12-10 19:59:59.551542,141.95,141.95,no conversion required
+USDCAD,2021-12-10 19:59:55.380849,141.94,141.94,no conversion required
+USDCAD,2021-12-10 19:59:49.753801,141.95,141.95,no conversion required
+USDCAD,2021-12-10 19:59:47.816095,141.93,141.93,no conversion required
+USDCAD,2021-12-10 19:59:44.846585,141.92,141.92,no conversion required
+USDCAD,2021-12-10 16:59:50.157233,141.0,141.0,no conversion required
+USDCAD,2021-12-10 19:59:59.551542,156.95,156.95,no conversion required
+USDCAD,2021-12-10 19:59:55.380849,156.94,156.94,no conversion required
+USDCAD,2021-12-10 19:59:49.753801,156.95,156.95,no conversion required
+USDCAD,2021-12-10 19:59:47.816095,156.93,156.93,no conversion required
+USDCAD,2021-12-10 19:59:44.846585,156.92,156.92,no conversion required
+USDCAD,2021-12-10 16:59:50.157233,171.0,171.0,no conversion required
+USDCAD,2021-12-10 19:55:28.839861,-4.38,-4.38,no conversion required
+USDCAD,2021-12-10 19:55:27.634758,-4.39,-4.39,no conversion required
+USDCAD,2021-12-10 19:09:25.092317,-4.62,-4.62,no conversion required
+USDCAD,2021-12-10 19:09:20.207816,-4.61,-4.61,no conversion required
+USDCAD,2021-12-10 19:55:28.839861,-4.18,-4.18,no conversion required
+USDCAD,2021-12-10 19:55:27.634758,-4.19,-4.19,no conversion required
+USDCAD,2021-12-10 19:09:25.092317,-4.32,-4.32,no conversion required
+USDCAD,2021-12-10 19:09:20.207816,-4.31,-4.31,no conversion required
+USDCAD,2021-12-10 19:22:04.379397,-2.83,-2.83,no conversion required
+USDCAD,2021-12-10 19:25:10.175918,-3.0,-3.0,no conversion required
+USDCAD,2021-12-10 19:12:50.180152,-3.05,-3.05,no conversion required
+USDCAD,2021-12-10 19:22:04.379397,-2.63,-2.63,no conversion required
+USDCAD,2021-12-10 19:25:10.175918,-2.5,-2.5,no conversion required
+USDCAD,2021-12-10 19:12:50.180152,-2.55,-2.55,no conversion required
+USDCAD,2021-12-10 19:59:59.578293,100.98,100.98,no conversion required
+USDCAD,2021-12-10 19:59:55.708595,100.93,100.93,no conversion required
+USDCAD,2021-12-10 19:59:54.644609,100.94,100.94,no conversion required
+USDCAD,2021-12-10 19:59:49.744678,100.88,100.88,no conversion required
+USDCAD,2021-12-10 19:59:45.537112,100.81,100.81,no conversion required
+USDCAD,2021-12-10 19:59:35.168680,97.0,97.0,no conversion required
+USDCAD,2021-12-10 19:59:20.184696,96.5,96.5,no conversion required
+USDCAD,2021-12-10 19:58:45.204183,97.0,97.0,no conversion required
+USDCAD,2021-12-10 19:58:40.118621,97.5,97.5,no conversion required
+USDCAD,2021-12-10 19:58:15.220697,97.0,97.0,no conversion required
+USDCAD,2021-12-10 19:59:59.578293,110.98,110.98,no conversion required
+USDCAD,2021-12-10 19:59:55.708595,110.93,110.93,no conversion required
+USDCAD,2021-12-10 19:59:54.644609,110.94,110.94,no conversion required
+USDCAD,2021-12-10 19:59:49.744678,110.88,110.88,no conversion required
+USDCAD,2021-12-10 19:59:45.537112,110.81,110.81,no conversion required
+USDCAD,2021-12-10 19:59:35.168680,107.0,107.0,no conversion required
+USDCAD,2021-12-10 19:59:20.184696,106.5,106.5,no conversion required
+USDCAD,2021-12-10 19:58:45.204183,107.0,107.0,no conversion required
+USDCAD,2021-12-10 19:58:40.118621,107.5,107.5,no conversion required
+USDCAD,2021-12-10 19:58:15.220697,107.0,107.0,no conversion required
+USDCAD,2021-12-10 19:22:04.191925,0.3,0.3,no conversion required
+USDCAD,2021-12-10 19:59:55.129513,0.28,0.28,no conversion required
+USDCAD,2021-12-10 19:59:45.143374,0.27,0.27,no conversion required
+USDCAD,2021-12-10 19:59:40.120572,0.28,0.28,no conversion required
+USDCAD,2021-12-10 19:59:25.126076,0.27,0.27,no conversion required
+USDCAD,2021-12-10 19:59:20.182935,0.28,0.28,no conversion required
+USDCAD,2021-12-10 19:22:04.191925,0.5,0.5,no conversion required
+USDCAD,2021-12-10 19:59:55.129513,0.48,0.48,no conversion required
+USDCAD,2021-12-10 19:59:45.143374,0.47,0.47,no conversion required
+USDCAD,2021-12-10 19:59:40.120572,0.48,0.48,no conversion required
+USDCAD,2021-12-10 19:59:25.126076,0.47,0.47,no conversion required
+USDCAD,2021-12-10 19:59:20.182935,0.48,0.48,no conversion required
+USDCAD,2021-12-10 19:55:30.869720,-3.98,-3.98,no conversion required
+USDCAD,2021-12-10 19:55:29.825694,-3.97,-3.97,no conversion required
+USDCAD,2021-12-10 19:55:28.781375,-3.97,-3.97,no conversion required
+USDCAD,2021-12-10 19:55:27.426777,-3.97,-3.97,no conversion required
+USDCAD,2021-12-10 19:58:10.106697,-4.05,-4.05,no conversion required
+USDCAD,2021-12-10 19:58:05.115872,-4.0,-4.0,no conversion required
+USDCAD,2021-12-10 19:40:30.202193,-4.05,-4.05,no conversion required
+USDCAD,2021-12-10 19:40:20.193968,-4.0,-4.0,no conversion required
+USDCAD,2021-12-10 19:40:05.131336,-4.05,-4.05,no conversion required
+USDCAD,2021-12-10 19:55:30.869720,-3.78,-3.78,no conversion required
+USDCAD,2021-12-10 19:55:29.825694,-3.77,-3.77,no conversion required
+USDCAD,2021-12-10 19:55:28.781375,-3.77,-3.77,no conversion required
+USDCAD,2021-12-10 19:55:27.426777,-3.77,-3.77,no conversion required
+USDCAD,2021-12-10 19:58:10.106697,-3.65,-3.65,no conversion required
+USDCAD,2021-12-10 19:58:05.115872,-3.6,-3.6,no conversion required
+USDCAD,2021-12-10 19:40:30.202193,-3.65,-3.65,no conversion required
+USDCAD,2021-12-10 19:40:20.193968,-3.6,-3.6,no conversion required
+USDCAD,2021-12-10 19:40:05.131336,-3.65,-3.65,no conversion required
+USDCAD,2021-12-10 19:59:59.538706,39.22,39.22,no conversion required
+USDCAD,2021-12-10 19:59:58.175462,39.24,39.24,no conversion required
+USDCAD,2021-12-10 19:59:57.138498,39.18,39.18,no conversion required
+USDCAD,2021-12-10 19:59:56.124498,39.13,39.13,no conversion required
+USDCAD,2021-12-10 19:59:53.893285,39.16,39.16,no conversion required
+USDCAD,2021-12-10 19:59:25.182416,40.0,40.0,no conversion required
+USDCAD,2021-12-10 19:59:20.184613,39.9,39.9,no conversion required
+USDCAD,2021-12-10 19:59:00.170528,40.0,40.0,no conversion required
+USDCAD,2021-12-10 19:58:50.110967,40.1,40.1,no conversion required
+USDCAD,2021-12-10 19:58:45.204078,40.0,40.0,no conversion required
+USDCAD,2021-12-10 19:59:59.538706,40.22,40.22,no conversion required
+USDCAD,2021-12-10 19:59:58.175462,40.24,40.24,no conversion required
+USDCAD,2021-12-10 19:59:57.138498,40.18,40.18,no conversion required
+USDCAD,2021-12-10 19:59:56.124498,40.13,40.13,no conversion required
+USDCAD,2021-12-10 19:59:53.893285,40.16,40.16,no conversion required
+USDCAD,2021-12-10 19:59:25.182416,42.0,42.0,no conversion required
+USDCAD,2021-12-10 19:59:20.184613,41.9,41.9,no conversion required
+USDCAD,2021-12-10 19:59:00.170528,42.0,42.0,no conversion required
+USDCAD,2021-12-10 19:58:50.110967,42.1,42.1,no conversion required
+USDCAD,2021-12-10 19:58:45.204078,42.0,42.0,no conversion required
+USDCAD,2021-12-10 18:56:11.632346,0.26,0.26,no conversion required
+USDCAD,2021-12-10 18:09:15.077927,0.21,0.21,no conversion required
+USDCAD,2021-12-10 18:56:11.632346,0.36,0.36,no conversion required
+USDCAD,2021-12-10 18:09:15.077927,0.31,0.31,no conversion required
+USDCAD,2021-12-10 19:22:04.371897,-4.34,-4.34,no conversion required
+USDCAD,2021-12-10 19:11:09.482577,-4.31,-4.31,no conversion required
+USDCAD,2021-12-10 19:11:08.503423,-4.32,-4.32,no conversion required
+USDCAD,2021-12-10 19:10:05.127910,-4.4,-4.4,no conversion required
+USDCAD,2021-12-10 19:22:04.371897,-4.14,-4.14,no conversion required
+USDCAD,2021-12-10 19:11:09.482577,-4.11,-4.11,no conversion required
+USDCAD,2021-12-10 19:11:08.503423,-4.12,-4.12,no conversion required
+USDCAD,2021-12-10 19:10:05.127910,-4.0,-4.0,no conversion required
 USDBHD,2021-12-10 06:47:12.844873,0.6,0.6,no conversion required
 USDBHD,2021-12-10 00:00:01.768623,0.6,0.6,no conversion required
 USDBHD,2021-12-10 06:47:12.844873,0.8,0.8,no conversion required
@@ -13217,108 +13217,108 @@ AUDJPY,2021-12-10 19:56:22.009419,-0.36,-0.36,no conversion required
 AUDJPY,2021-12-10 19:56:22.009419,-0.22,-0.22,no conversion required
 AUDJPY,2021-12-10 19:56:22.007259,-2.19,-2.19,no conversion required
 AUDJPY,2021-12-10 19:56:22.007259,-1.7,-1.7,no conversion required
-AUDCHF,2021-12-10 14:06:36.686797,-0.2,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 14:06:36.686797,-0.19,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 07:57:48.747657,-0.49,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 07:57:48.747657,-0.48,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 16:53:58.681303,-0.18,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 16:53:58.681303,-0.17,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:57:22.107940,-57.91,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009012,-57.91,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.771905,-57.95,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:50:21.093094,-57.99,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:46:20.303894,-57.95,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:57:22.107940,-55.83,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009012,-55.83,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.771905,-55.87,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:50:21.093094,-55.9,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:46:20.303894,-55.87,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:57:22.109767,-33.65,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009084,-33.65,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:57:22.109767,-32.58,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009084,-32.58,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008764,-16.42,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008764,-15.82,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 11:54:18.849744,-0.18,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 11:54:18.849744,-0.17,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009266,-154.72,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.772476,-154.82,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009266,-146.64,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.772476,-146.74,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009499,-116.54,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009499,-112.39,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008988,-73.64,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.772401,-73.69,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:50:21.092917,-73.87,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:48:20.995630,-73.69,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:46:20.310183,-73.69,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008988,-71.47,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.772401,-71.52,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:50:21.092917,-71.7,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:48:20.995630,-71.52,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:46:20.310183,-71.52,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.006922,-64.48,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.006922,-62.31,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:59:22.429609,-55.86,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:58:22.146054,-55.86,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009198,-55.86,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:55:21.925896,-56.08,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.754697,-55.9,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:59:22.429609,-53.87,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:58:22.146054,-53.69,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009198,-53.87,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:55:21.925896,-54.09,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.754697,-53.91,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008906,-47.78,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008906,-46.33,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:59:22.427446,-40.25,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:58:22.142984,-40.25,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009297,-40.07,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:55:21.926360,-40.28,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.756171,-40.1,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:59:22.427446,-38.79,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:58:22.142984,-38.79,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009297,-38.79,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:55:21.926360,-38.82,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.756171,-38.82,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009336,-33.4,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009336,-32.33,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008542,-27.42,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008542,-26.44,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008379,-21.64,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.751812,-21.66,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:52:21.528469,-21.73,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:51:21.242894,-21.66,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:50:21.092396,-21.73,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.008379,-20.73,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.751812,-20.75,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:52:21.528469,-20.82,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:51:21.242894,-20.75,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:50:21.092396,-20.82,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 18:22:08.877541,-4.76,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 18:22:08.877541,-4.34,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009037,-16.11,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009037,-15.43,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:59:22.430067,-228.73,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:58:22.146055,-229.63,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009401,-229.63,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:54:21.857398,-229.77,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.751888,-229.77,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:59:22.430067,-219.81,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:58:22.146055,-220.7,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.009401,-220.7,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:54:21.857398,-220.84,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:53:21.751888,-220.84,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 18:22:08.880989,-2.29,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 18:22:08.880989,-2.13,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.006830,-11.33,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.006830,-10.75,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.007455,-82.62,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.007455,-80.09,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 16:41:56.930505,-1.18,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 16:41:56.930505,-1.05,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.006730,-6.32,,ccy_pair not supported or missing conversion info
-AUDCHF,2021-12-10 19:56:22.006730,-5.9,,ccy_pair not supported or missing conversion info
+AUDCHF,2021-12-10 14:06:36.686797,-0.2,-0.2,no conversion required
+AUDCHF,2021-12-10 14:06:36.686797,-0.19,-0.19,no conversion required
+AUDCHF,2021-12-10 07:57:48.747657,-0.49,-0.49,no conversion required
+AUDCHF,2021-12-10 07:57:48.747657,-0.48,-0.48,no conversion required
+AUDCHF,2021-12-10 16:53:58.681303,-0.18,-0.18,no conversion required
+AUDCHF,2021-12-10 16:53:58.681303,-0.17,-0.17,no conversion required
+AUDCHF,2021-12-10 19:57:22.107940,-57.91,-57.91,no conversion required
+AUDCHF,2021-12-10 19:56:22.009012,-57.91,-57.91,no conversion required
+AUDCHF,2021-12-10 19:53:21.771905,-57.95,-57.95,no conversion required
+AUDCHF,2021-12-10 19:50:21.093094,-57.99,-57.99,no conversion required
+AUDCHF,2021-12-10 19:46:20.303894,-57.95,-57.95,no conversion required
+AUDCHF,2021-12-10 19:57:22.107940,-55.83,-55.83,no conversion required
+AUDCHF,2021-12-10 19:56:22.009012,-55.83,-55.83,no conversion required
+AUDCHF,2021-12-10 19:53:21.771905,-55.87,-55.87,no conversion required
+AUDCHF,2021-12-10 19:50:21.093094,-55.9,-55.9,no conversion required
+AUDCHF,2021-12-10 19:46:20.303894,-55.87,-55.87,no conversion required
+AUDCHF,2021-12-10 19:57:22.109767,-33.65,-33.65,no conversion required
+AUDCHF,2021-12-10 19:56:22.009084,-33.65,-33.65,no conversion required
+AUDCHF,2021-12-10 19:57:22.109767,-32.58,-32.58,no conversion required
+AUDCHF,2021-12-10 19:56:22.009084,-32.58,-32.58,no conversion required
+AUDCHF,2021-12-10 19:56:22.008764,-16.42,-16.42,no conversion required
+AUDCHF,2021-12-10 19:56:22.008764,-15.82,-15.82,no conversion required
+AUDCHF,2021-12-10 11:54:18.849744,-0.18,-0.18,no conversion required
+AUDCHF,2021-12-10 11:54:18.849744,-0.17,-0.17,no conversion required
+AUDCHF,2021-12-10 19:56:22.009266,-154.72,-154.72,no conversion required
+AUDCHF,2021-12-10 19:53:21.772476,-154.82,-154.82,no conversion required
+AUDCHF,2021-12-10 19:56:22.009266,-146.64,-146.64,no conversion required
+AUDCHF,2021-12-10 19:53:21.772476,-146.74,-146.74,no conversion required
+AUDCHF,2021-12-10 19:56:22.009499,-116.54,-116.54,no conversion required
+AUDCHF,2021-12-10 19:56:22.009499,-112.39,-112.39,no conversion required
+AUDCHF,2021-12-10 19:56:22.008988,-73.64,-73.64,no conversion required
+AUDCHF,2021-12-10 19:53:21.772401,-73.69,-73.69,no conversion required
+AUDCHF,2021-12-10 19:50:21.092917,-73.87,-73.87,no conversion required
+AUDCHF,2021-12-10 19:48:20.995630,-73.69,-73.69,no conversion required
+AUDCHF,2021-12-10 19:46:20.310183,-73.69,-73.69,no conversion required
+AUDCHF,2021-12-10 19:56:22.008988,-71.47,-71.47,no conversion required
+AUDCHF,2021-12-10 19:53:21.772401,-71.52,-71.52,no conversion required
+AUDCHF,2021-12-10 19:50:21.092917,-71.7,-71.7,no conversion required
+AUDCHF,2021-12-10 19:48:20.995630,-71.52,-71.52,no conversion required
+AUDCHF,2021-12-10 19:46:20.310183,-71.52,-71.52,no conversion required
+AUDCHF,2021-12-10 19:56:22.006922,-64.48,-64.48,no conversion required
+AUDCHF,2021-12-10 19:56:22.006922,-62.31,-62.31,no conversion required
+AUDCHF,2021-12-10 19:59:22.429609,-55.86,-55.86,no conversion required
+AUDCHF,2021-12-10 19:58:22.146054,-55.86,-55.86,no conversion required
+AUDCHF,2021-12-10 19:56:22.009198,-55.86,-55.86,no conversion required
+AUDCHF,2021-12-10 19:55:21.925896,-56.08,-56.08,no conversion required
+AUDCHF,2021-12-10 19:53:21.754697,-55.9,-55.9,no conversion required
+AUDCHF,2021-12-10 19:59:22.429609,-53.87,-53.87,no conversion required
+AUDCHF,2021-12-10 19:58:22.146054,-53.69,-53.69,no conversion required
+AUDCHF,2021-12-10 19:56:22.009198,-53.87,-53.87,no conversion required
+AUDCHF,2021-12-10 19:55:21.925896,-54.09,-54.09,no conversion required
+AUDCHF,2021-12-10 19:53:21.754697,-53.91,-53.91,no conversion required
+AUDCHF,2021-12-10 19:56:22.008906,-47.78,-47.78,no conversion required
+AUDCHF,2021-12-10 19:56:22.008906,-46.33,-46.33,no conversion required
+AUDCHF,2021-12-10 19:59:22.427446,-40.25,-40.25,no conversion required
+AUDCHF,2021-12-10 19:58:22.142984,-40.25,-40.25,no conversion required
+AUDCHF,2021-12-10 19:56:22.009297,-40.07,-40.07,no conversion required
+AUDCHF,2021-12-10 19:55:21.926360,-40.28,-40.28,no conversion required
+AUDCHF,2021-12-10 19:53:21.756171,-40.1,-40.1,no conversion required
+AUDCHF,2021-12-10 19:59:22.427446,-38.79,-38.79,no conversion required
+AUDCHF,2021-12-10 19:58:22.142984,-38.79,-38.79,no conversion required
+AUDCHF,2021-12-10 19:56:22.009297,-38.79,-38.79,no conversion required
+AUDCHF,2021-12-10 19:55:21.926360,-38.82,-38.82,no conversion required
+AUDCHF,2021-12-10 19:53:21.756171,-38.82,-38.82,no conversion required
+AUDCHF,2021-12-10 19:56:22.009336,-33.4,-33.4,no conversion required
+AUDCHF,2021-12-10 19:56:22.009336,-32.33,-32.33,no conversion required
+AUDCHF,2021-12-10 19:56:22.008542,-27.42,-27.42,no conversion required
+AUDCHF,2021-12-10 19:56:22.008542,-26.44,-26.44,no conversion required
+AUDCHF,2021-12-10 19:56:22.008379,-21.64,-21.64,no conversion required
+AUDCHF,2021-12-10 19:53:21.751812,-21.66,-21.66,no conversion required
+AUDCHF,2021-12-10 19:52:21.528469,-21.73,-21.73,no conversion required
+AUDCHF,2021-12-10 19:51:21.242894,-21.66,-21.66,no conversion required
+AUDCHF,2021-12-10 19:50:21.092396,-21.73,-21.73,no conversion required
+AUDCHF,2021-12-10 19:56:22.008379,-20.73,-20.73,no conversion required
+AUDCHF,2021-12-10 19:53:21.751812,-20.75,-20.75,no conversion required
+AUDCHF,2021-12-10 19:52:21.528469,-20.82,-20.82,no conversion required
+AUDCHF,2021-12-10 19:51:21.242894,-20.75,-20.75,no conversion required
+AUDCHF,2021-12-10 19:50:21.092396,-20.82,-20.82,no conversion required
+AUDCHF,2021-12-10 18:22:08.877541,-4.76,-4.76,no conversion required
+AUDCHF,2021-12-10 18:22:08.877541,-4.34,-4.34,no conversion required
+AUDCHF,2021-12-10 19:56:22.009037,-16.11,-16.11,no conversion required
+AUDCHF,2021-12-10 19:56:22.009037,-15.43,-15.43,no conversion required
+AUDCHF,2021-12-10 19:59:22.430067,-228.73,-228.73,no conversion required
+AUDCHF,2021-12-10 19:58:22.146055,-229.63,-229.63,no conversion required
+AUDCHF,2021-12-10 19:56:22.009401,-229.63,-229.63,no conversion required
+AUDCHF,2021-12-10 19:54:21.857398,-229.77,-229.77,no conversion required
+AUDCHF,2021-12-10 19:53:21.751888,-229.77,-229.77,no conversion required
+AUDCHF,2021-12-10 19:59:22.430067,-219.81,-219.81,no conversion required
+AUDCHF,2021-12-10 19:58:22.146055,-220.7,-220.7,no conversion required
+AUDCHF,2021-12-10 19:56:22.009401,-220.7,-220.7,no conversion required
+AUDCHF,2021-12-10 19:54:21.857398,-220.84,-220.84,no conversion required
+AUDCHF,2021-12-10 19:53:21.751888,-220.84,-220.84,no conversion required
+AUDCHF,2021-12-10 18:22:08.880989,-2.29,-2.29,no conversion required
+AUDCHF,2021-12-10 18:22:08.880989,-2.13,-2.13,no conversion required
+AUDCHF,2021-12-10 19:56:22.006830,-11.33,-11.33,no conversion required
+AUDCHF,2021-12-10 19:56:22.006830,-10.75,-10.75,no conversion required
+AUDCHF,2021-12-10 19:56:22.007455,-82.62,-82.62,no conversion required
+AUDCHF,2021-12-10 19:56:22.007455,-80.09,-80.09,no conversion required
+AUDCHF,2021-12-10 16:41:56.930505,-1.18,-1.18,no conversion required
+AUDCHF,2021-12-10 16:41:56.930505,-1.05,-1.05,no conversion required
+AUDCHF,2021-12-10 19:56:22.006730,-6.32,-6.32,no conversion required
+AUDCHF,2021-12-10 19:56:22.006730,-5.9,-5.9,no conversion required
 AUDCAD,2021-12-10 16:20:54.328452,-0.01,0.9111,converted
 AUDCAD,2021-12-10 16:20:54.328452,0.02,0.9114,converted
 AUDCAD,2021-12-10 16:20:54.316247,0.07,0.9119,converted
