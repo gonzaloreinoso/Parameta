@@ -52,25 +52,14 @@ pip install -r requirements.txt
 
 ### Standard Deviation Calculation
 
-The stdev_test directory contains two implementations for calculating rolling standard deviations:
-
-#### Solution A - Incremental Approach:
-
-```bash
-cd stdev_test/scripts
-python stdev_solution_a.py
-```
-
-This implementation uses a custom window-based approach with incremental calculation.
-
-#### Solution B - Recalculation Approach:
+The stdev_test directory contains an implementation for calculating rolling standard deviations:
 
 ```bash
 cd stdev_test/scripts
 python stdev_solution_b.py
 ```
 
-This implementation uses pandas' built-in vectorized operations for faster processing.
+This implementation uses pandas' built-in vectorized operations for efficient processing.
 
 ### Currency Rate Conversion
 
@@ -98,6 +87,8 @@ When you run the scripts, the results will be stored in the respective results d
 ## Results
 
 The output files are stored in the corresponding results directories:
+- `stdev_test/results/stdev_b.csv`: Results from the standard deviation calculation
+- `rates_test/results/price_data.csv`: Results from the currency rate conversion
 
 - `stdev_test/results/stdev_a.csv`: Results from the state standard deviation calculation
 - `stdev_test/results/stdev_b.csv`: Results from the reevaluation standard deviation calculation

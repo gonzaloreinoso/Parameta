@@ -9,17 +9,12 @@ Calculate rolling standard deviations for bid, mid, and ask prices per security 
 - Contiguous time periods (reset calculation after gaps)
 - 20-hour rolling window by default
 
-## Implementations
-
-### Solution A (`stdev_solution_a.py`)
-- Uses a custom window-based approach with incremental calculation
-- Maintains running sums for more efficient standard deviation calculation
-- Resets windows on time gaps
+## Implementation
 
 ### Solution B (`stdev_solution_b.py`)
-- Uses pandas' built-in vectorized operations for faster processing
+- Uses pandas' built-in vectorized operations for fast processing
 - Identifies contiguous time sequences for proper window resets
-- More concise code with potentially better performance for large datasets
+- Concise code with excellent performance for large datasets
 
 ## Data Format
 
@@ -48,9 +43,6 @@ Both solutions produce CSV files with the following structure:
 ## Usage
 
 ```bash
-# Run solution A
-python scripts/stdev_solution_a.py
-
-# Run solution B
+# Run the standard deviation calculator
 python scripts/stdev_solution_b.py
 ```
