@@ -63,6 +63,7 @@ class IncrementalStdevCalculator:
         self.df = pd.read_parquet(self.price_path)
         self.df['timestamp'] = pd.to_datetime(self.df['snap_time'])
         self.df.sort_values(['security_id', 'timestamp'], inplace=True)
+        self.df.ffill(inplace=True)
 
         # Load previous state if exists
         if self.state_path and self.state_path.exists():
