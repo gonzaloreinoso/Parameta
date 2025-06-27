@@ -61,10 +61,13 @@ class IncrementalStdevCalculator:
         """
         # Load and sort
         self.df = pd.read_parquet(self.price_path)
-        self.df['timestamp'] = pd.to_datetime(self.df['snap_time'])
+        self.df.rename(columns={'snap_time': 'timestamp'}, inplace=True)
+        self.df['timestamp'] = pd.to_datetime(self.df['timestamp'])
         self.df.sort_values(['security_id', 'timestamp'], inplace=True)
-        self.df.ffill(inplace=True)
-
+        
+        # Ensure hourly snapshots for every hour
+        self._ensure_hourly_snapshots()
+        
         # Load previous state if exists
         if self.state_path and self.state_path.exists():
             try:
@@ -77,7 +80,8 @@ class IncrementalStdevCalculator:
                         'values': dq,
                         'sum': s['sum'],
                         'sum_sq': s['sum_sq'],
-                        'last_timestamp': pd.Timestamp(s['last_timestamp']) if s['last_timestamp'] else None
+                        'last_timestamp': pd.Timestamp(s['last_timestamp']) if s['last_timestamp'] else None,
+                        'last_stdev': s.get('last_stdev', None)  # Handle backward compatibility
                     }
             except Exception:
                 self._initialize_state()
@@ -88,16 +92,21 @@ class IncrementalStdevCalculator:
         st = self.calculation_state
         ws = self.window_size
         if key not in st:
-            st[key] = {'values': deque(maxlen=ws), 'sum': 0.0, 'sum_sq': 0.0, 'last_timestamp': None}
+            st[key] = {'values': deque(maxlen=ws), 'sum': 0.0, 'sum_sq': 0.0, 'last_timestamp': None, 'last_stdev': None}
         state = st[key]
 
-        # Reset on gap
         current_ts = pd.Timestamp(ts)
-        if state['last_timestamp'] is not None:
-            if current_ts != state['last_timestamp'] + pd.Timedelta(hours=1):
-                state['values'].clear()
-                state['sum'] = 0.0
-                state['sum_sq'] = 0.0
+        
+        # Check if value is missing (NaN)
+        if pd.isna(value):
+            # Reset state when encountering missing value, but preserve last_stdev
+            state['values'].clear()
+            state['sum'] = 0.0
+            state['sum_sq'] = 0.0
+            state['last_timestamp'] = current_ts
+            # Return the last calculated standard deviation if available
+            return state['last_stdev']
+        
         state['last_timestamp'] = current_ts
 
         # Add new value
@@ -113,8 +122,10 @@ class IncrementalStdevCalculator:
         if len(state['values']) == ws:
             mean = state['sum'] / ws
             var = (state['sum_sq'] - state['sum'] * mean) / (ws - 1)
-            return np.sqrt(max(var, 0.0))
-        return None
+            stdev = np.sqrt(max(var, 0.0))
+            state['last_stdev'] = stdev  # Store the calculated stdev
+            return stdev
+        return state['last_stdev']  # Return last stdev if window not full yet
 
     def process(self, start_time, end_time):
         start = pd.to_datetime(start_time)
@@ -158,7 +169,8 @@ class IncrementalStdevCalculator:
                     'values': list(s['values']),
                     'sum': s['sum'],
                     'sum_sq': s['sum_sq'],
-                    'last_timestamp': s['last_timestamp'].isoformat() if s['last_timestamp'] else None
+                    'last_timestamp': s['last_timestamp'].isoformat() if s['last_timestamp'] else None,
+                    'last_stdev': s['last_stdev']
                 }
             self.state_path.parent.mkdir(parents=True, exist_ok=True)
             with open(self.state_path, 'w') as f:
@@ -169,6 +181,45 @@ class IncrementalStdevCalculator:
     def save(self, result_df, out_path):
         Path(out_path).parent.mkdir(parents=True, exist_ok=True)
         result_df.to_csv(out_path, index=False)
+
+    def _ensure_hourly_snapshots(self):
+        """
+        Ensure that there's an hourly snapshot for every hour for each security.
+        
+        Creates missing rows with NaN values for bid, mid, ask columns but with
+        proper timestamps to maintain hourly continuity.
+        """
+        if self.df.empty:
+            return
+            
+        # Get the full time range
+        min_time = self.df['timestamp'].min()
+        max_time = self.df['timestamp'].max()
+        
+        # Create hourly range
+        hourly_range = pd.date_range(
+            start=min_time.floor('h'),
+            end=max_time.ceil('h'),
+            freq='h'
+        )
+        
+        # Get all unique security IDs
+        security_ids = self.df['security_id'].unique()
+        
+        # Create a complete index with all combinations of security_id and hourly timestamps
+        complete_index = pd.MultiIndex.from_product(
+            [security_ids, hourly_range],
+            names=['security_id', 'timestamp']
+        )
+        
+        # Set the current dataframe index for reindexing
+        self.df.set_index(['security_id', 'timestamp'], inplace=True)
+        
+        # Reindex to include all hourly snapshots, this will add NaN for missing values
+        self.df = self.df.reindex(complete_index).reset_index()
+        
+        # Sort again to ensure proper order
+        self.df.sort_values(['security_id', 'timestamp'], inplace=True)
 
 if __name__ == '__main__':
     import time
